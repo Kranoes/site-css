@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100&display=swap');
+body {
+background-color: #f0f0f0;
+color: rgb(102, 124, 108);
+font-size: 17px;
+font-family:'Martian Mono', monospace;
+}
+
+.ilyha {
+color: #86898f;
+margin: 100;
+font-style: normal;
+text-decoration: none;
+text-transform: uppercase;
+letter-spacing: bold;
+background-color:darkcyan ;
+border: 10px;
+padding-top:20px ;
+padding-bottom: 5px;
+font-size: 14px;
+display
+}
+.inv{
+ background:#FFD700;
+ padding: 15px 40px;
+ border: 5px solid ;
+ margin: 10px;
+ border-bottom-style:double;
+ border-top-style: double;
+text-align: center;
+}
+.all {
+ max-width: 80%;
+}
+.al{ 
+text-align: center;
+text-decoration-color: black;   
+}
+/* .box div {
+    background-color: black;
+    height: 200px;
+    width: 25%;
+    float: left;
+    border
+
+} */
+a {
+color: black;
+text-decoration: none;
+}
+a:hover{
+
+font-weight: bold;
+
+}
+.l {
+color: brown;
+font-size: 100px;
+text-align: center;
+margin-left: 225px;
+display: block;
+}
+.in:active {
+color: yellow;
+}
+.in:visited {
+color: yellowgreen;
+}
+.rec{
+color: 	#66CC66;
+background-color: #99CCFF;
+}
+.rek {
+margin: 10px;
+font-weight: bold;
+}
+.tab {
+width: 100%;
+}
+.tab td {
+padding: 10px;
+font-size: larger;
+}
+.tab td:nth-child(1) {
+    color:  #FFD700;
+
+}
+.tab td:nth-child(2) {
+    color: #C2CAD0;
+
+}
+.tab td:nth-child(3) {
+    color: #5CDB95;
+
+}
+.tab td:nth-child(4) {
+    color:#7E685A;
+
+}
+.group {
+border: 0;
+width: 100%;
+box-sizing: border-box;
+}
+.txt {
+border: 0;
+border-bottom: 1px solid #ccc;
+outline: none;
+font-family: inherit;
+}
+.l :active {
+text-decoration: underline;
+}
+.txta {
+ border: 0;
+border-bottom: 1px solid #ccc;
+outline: none;
+font-family: inherit;
+width: 100%;
+box-sizing: border-box;
+background: transparent;
+}
+.papan {
+padding-top: 20px;
+}
+.btn {
+background: black;
+padding: 15px 20px;
+border: none;
+color: whitesmoke;
+cursor: pointer;
+}
+.btn:hover {
+opacity: 0.9;
+}
